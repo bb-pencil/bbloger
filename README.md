@@ -1,5 +1,5 @@
 # bbloger
 
-This package implements the logr interface in terms of Go's standard log package(https://godoc.org/std/log).
+This package implements the [logr](https://github.com/go-logr/logr) interface
 
 This is a BETA grade implementation.
