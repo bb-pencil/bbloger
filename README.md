@@ -1,2 +1,5 @@
 # bbloger
-Minimal Go logging using logr and Go's standard library
+
+This package implements the logr interface in terms of Go's standard log package(https://godoc.org/std/log).
+
+This is a BETA grade implementation.
